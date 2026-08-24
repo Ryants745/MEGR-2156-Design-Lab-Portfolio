@@ -14,14 +14,14 @@ nav:
   - About Me: aboutme/index.md
   - Portfolio Overview: portfolio-overview.md
   - Assignments:
-      - A1 Create Portfolio: assignments/A01/index.md
-      - A2: assignments/A02/index.md
-      - A3 Parametric and FEA: assignments/A03/index.md
-      - A4 Motor Mount: assignments/A04/index.md
-      - A5 Bracket Design: assignments/A05/index.md
-      - A6 Bracket Design (Drawings Part 1): assignments/A06/index.md
-      - A7 FEA on Bracket: assignments/A07/index.md
-      - A8 Gear Box Design: assignments/A08/index.md
-      - A9 Pulley System Design: assignments/A09/index.md
-      - A10 Lead Screw Design: assignments/A10/index.md
-      - A11 Motor Selection Design: assignments/A11/index.md
+      - HW A1 Create Portfolio (8/25): assignments/A01/index.md
+      - HW A2 Design With Basic Stress (9/1): assignments/A02/index.md
+      - HW A3 Parametric and FEA (9/8): assignments/A03/index.md
+      - HW A4 Motor Mount (9/15): assignments/A04/index.md
+      - HW A5 Bracket Design (9/22): assignments/A05/index.md
+      - HW A6 Bracket Design (Drawings Part 1) (9/29): assignments/A06/index.md
+      - HW A7 FEA on Bracket (10/20): assignments/A07/index.md
+      - HW A8 Gear Box Design (10/27): assignments/A08/index.md
+      - HW A9 Pulley System Design (11/3): assignments/A09/index.md
+      - HW A10 Lead Screw Design (11/10): assignments/A10/index.md
+      - HW A11 Motor Selection Design (11/17): assignments/A11/index.md
