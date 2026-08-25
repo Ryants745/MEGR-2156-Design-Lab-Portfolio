@@ -35,6 +35,7 @@ D. Professional Tone:
 This portfolio maintains the high standard of engineering tones across the all of Thanah's documents which would make them acceptable to an employer.
 
 Task B: Product Analysis
+
 Dumbbell weight
 
 A. Primary Engineering Function
