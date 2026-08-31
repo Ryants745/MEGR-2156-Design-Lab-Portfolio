@@ -27,6 +27,6 @@ The next step of this project was to find the cross sectional area of connecting
 ## Decide
 
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
+The last step of this project was to use a CAD software to 3D model the truss. This step took a long time because I decided to use SolidWorks and I had to learn how to use everything in SolidWorks because I was told it was easier to use than Creo which is the software I had experience with before. The first thing I did was design the 2d truss drawing by drawing out the shape based on my diagram from my calculations. After that I added a line to go from point B to point D to make the truss 3D.
 ## Communicate
 
