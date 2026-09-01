@@ -56,7 +56,7 @@ Once I was done the simulation I noticed I forgot to compare the weight and the 
 <img width="4284" height="5712" alt="IMG_7215" src="https://github.com/user-attachments/assets/768c8734-6793-4e8f-813b-cf6f526593da" />
 
 
-Engineering Lessons Learned
+## Engineering Lessons Learned
 
 During this project I learned a lot about the different features of SolidWorks and how they were relevant to completing this assignment. I also learned that I should check all measurements before assembling parts as it took me a while to realize what was wrong. Now that I know some of the basic feature for example weldments, extrudes, simulations, assemblies and more, I think it will be easier to work on the next project that requires using a CAD software.
 
