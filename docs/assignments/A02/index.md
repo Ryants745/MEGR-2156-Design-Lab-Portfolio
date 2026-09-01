@@ -8,7 +8,7 @@ For this assignment I was tasked with designing a weight planar truss using A500
 
 The force P value had to be between 20 and 30 kilonewtons and I chose 25 kilonewtons. The distance of a is 0.4 meters and the distance of b is 0.3 meters. Point A is a pin and point B is roller and each element needed to have the same cross sectional area. The pins are to be identical to each other and each element needed to have the same cross sectional geometry. 
 
-## Analyze
+## Design
 
 The first thing I did was design the 2D truss by drawing out the free body diagram of the truss. I connected a beam from point A to point B, a beam from point B to point C, a beam from point C to point D and a beam from point D to point A. The truss design now looked like this. 
 
@@ -24,7 +24,7 @@ The next step of this project was to find the cross sectional area of connecting
 
 <img width="4284" height="5712" alt="IMG_7211" src="https://github.com/user-attachments/assets/6c3e0115-7df0-4e0d-9f08-345dbc753bd1" />
 
-## Decide
+## 3D CAD Modeling 
 
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
@@ -56,7 +56,7 @@ Once I was done the simulation I noticed I forgot to compare the weight and the 
 <img width="4284" height="5712" alt="IMG_7215" src="https://github.com/user-attachments/assets/768c8734-6793-4e8f-813b-cf6f526593da" />
 
 
-## Communicate
+Engineering Lessons Learned
 
 During this project I learned a lot about the different features of SolidWorks and how they were relevant to completing this assignment. I also learned that I should check all measurements before assembling parts as it took me a while to realize what was wrong. Now that I know some of the basic feature for example weldments, extrudes, simulations, assemblies and more, I think it will be easier to work on the next project that requires using a CAD software.
 
