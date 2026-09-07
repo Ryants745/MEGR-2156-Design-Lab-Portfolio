@@ -35,3 +35,5 @@ For the pin hole I used the stress concentration factor of 3.0 to calculate the 
 
 As I previously stated, a mistake was created when choosing the 6061 Alloy rather than the 6061 T6 but this mistake was resolved when using the 6061 T6 (SS) material on the bar. I also learned how to use parametric values in Solidworks to create designs. This assignment took me roughly 5 hours to complete when taking out any breaks I took while completing the assignment.
 
+Parametric and FEA Part
+https://github.com/Ryants745/MEGR-2156-Design-Lab-Portfolio/blob/main/docs/assignments/A03/Parametric%20and%20FEA.SLDPRT
