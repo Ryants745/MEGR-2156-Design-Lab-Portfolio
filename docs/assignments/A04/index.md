@@ -1,4 +1,4 @@
-<img width="1280" height="1552" alt="Screenshot 2026-09-12 151638" src="https://github.com/user-attachments/assets/abae31da-cb0d-41d1-9f23-98ad7403ed70" /># A4 – Motor Mount
+# A4 – Motor Mount
 
 ## Objective
 This week I was tasked with designing a 3d Motor mount using a 24V DC Gear Motor Planetary Gearbox that would attach to a wall. The material I chose to use was Polylactic Acid or PLA. It needed to have a maximum deflection of 0.3mm with a minimum safety factor of 3 and it needed to hold a load of P equal to 300 N.
