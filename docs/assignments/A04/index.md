@@ -49,7 +49,7 @@ Safety Factor
 <img width="2560" height="1552" alt="Screenshot 2026-09-12 225455" src="https://github.com/user-attachments/assets/ec3fd6bf-baff-4d08-92ab-e398689847cf" />
 
 ## Reflection
-As I said earlier I learned how to make holes in designs by using line to line up the correct placements of each hole. My deflection being slightly off could be the result of a rounding error with some of my results but overall I was satisfied with my result as it was only off by 0.032 mm which is 10.67%. This assignment took me roughly 8 hours to complete if I took out breaks I took while completing it.
+As I said earlier I learned how to make holes in designs by using line to line up the correct placements of each hole. My deflection being slightly off could be the result of a rounding error with some of my calculations but overall I was satisfied with my result as it was only off by 0.032 mm which is 10.67%. This assignment took me roughly 8 hours to complete if I took out breaks I took while completing it.
 
 Motor Mount 3D Design Download Link
 https://github.com/Ryants745/MEGR-2156-Design-Lab-Portfolio/blob/main/docs/assignments/A04/Motor%20Mount.SLDPRT
