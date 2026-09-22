@@ -30,7 +30,7 @@ Feature E is a cantilever overhang under a distributed load applied at the dista
 
 <img width="4284" height="2611" alt="IMG_7327" src="https://github.com/user-attachments/assets/ad44e3d5-3613-41af-b8cc-7ad62d913df1" />
 
-## Mutlive Sketches
+## Multiview Sketches
 The next step of the assignment was to generate two separate multiview sketches on paper one for stress and one for stiffness.
 
 <img width="3723" height="4725" alt="IMG_7329" src="https://github.com/user-attachments/assets/d1588957-f1c5-4ec3-a15c-30a7d42417d7" />
