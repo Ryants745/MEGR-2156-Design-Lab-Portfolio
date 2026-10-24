@@ -20,8 +20,14 @@ The next task was to change the design and then run the process of the simulatio
 
 For the first attempt of the second design I once again chose the maximum coarse mesh and my results looked successful. The design tested a max stress of 13.17 MPa, a deflection of 7.775 x 10^-5 in, and a safety factor of 20.88. The 2nd attempt under the default mesh had a max stress of 13.32 MPa, a deflection of 7.613 x 10^-5 in and a safety factor of 20.65. The convergence for design 2 was once again 1.1% for the safety factor and the stress and now a 2.1% for the deflection so it was once again achieved in the 2nd attempt. The max stress was located at the middle right side the new middle fillet and the max deflection occurred at the same spot as design 1. The number elements for design 2 after the second attempt was 9107.
 
+<img width="2560" height="1552" alt="Screenshot 2026-10-23 211622" src="https://github.com/user-attachments/assets/3396564a-99c0-49fc-afff-f537d900f1c3" />
+
+<img width="4115" height="4347" alt="IMG_7522" src="https://github.com/user-attachments/assets/cdc6d86e-330c-4fe5-bbf5-31fb876fb2e5" />
+
 ## Design 3
+For my third design I questioned why my targeted stress was not met. My safety factor was successfully lower but still significantly higher than 3. I decided to keep my diameter of 0.36 in for the pin and calculated a 66.35 % change from the original 1.07 in measurement. Using this information I reduced all design 1 dimensions by 66.35 % rather than half. I also reduced the fillet by this factor rather than increasing them and since the pin was larger than the base, the  fillets were applied in the same form as design 1 so I decided that middle fillets were not necessary. The mass of design 3 was now 0.02 lbs or 9.07 grams. Once again, I did not change the material nor the load of this design.
 
+<img width="2560" height="1552" alt="Screenshot 2026-10-24 155049" src="https://github.com/user-attachments/assets/1eebb99b-7ac9-4782-bf3b-de891bcbb65b" />
 
+For the first attempt of design 3, I once again chose the maximum coarse mesh which gave this design a max stress of 12.53 MPa, a deflection of 8.526 x 10 ^-5 in and a safety factor of 21.95. For Attempt 2 I used the default mesh which gave me a stress of 16.24 MPa, a deflection of 8.667 x 10^-5 in, and a safety factor of 16.93. Once again factor was still high but it was lowered from its original and my deflection also met the required constraint of 0.005 in. However, the convergence results were a 26% difference for the safety factor and the stress and a 1.6 % change of the deflection. Convergence was only achieved through the deflection of design 3. 
 # Lessons Learned
-
