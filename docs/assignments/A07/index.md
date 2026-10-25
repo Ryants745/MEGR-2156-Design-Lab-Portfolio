@@ -29,5 +29,12 @@ For my third design I questioned why my targeted stress was not met. My safety f
 
 <img width="2560" height="1552" alt="Screenshot 2026-10-24 155049" src="https://github.com/user-attachments/assets/1eebb99b-7ac9-4782-bf3b-de891bcbb65b" />
 
-For the first attempt of design 3, I once again chose the maximum coarse mesh which gave this design a max stress of 12.53 MPa, a deflection of 8.526 x 10 ^-5 in and a safety factor of 21.95. For Attempt 2 I used the default mesh which gave me a stress of 16.24 MPa, a deflection of 8.667 x 10^-5 in, and a safety factor of 16.93. Once again factor was still high but it was lowered from its original and my deflection also met the required constraint of 0.005 in. However, the convergence results were a 26% difference for the safety factor and the stress and a 1.6 % change of the deflection. Convergence was only achieved through the deflection of design 3. 
+For the first attempt of design 3, I once again chose the maximum coarse mesh which gave this design a max stress of 12.53 MPa, a deflection of 8.526 x 10 ^-5 in and a safety factor of 21.95. For Attempt 2 I used the default mesh which gave me a stress of 16.24 MPa, a deflection of 8.667 x 10^-5 in, and a safety factor of 16.93. Once again factor was still high but it was lowered from its original and my deflection also met the required constraint of 0.005 in. However, the convergence results were a 26% difference for the safety factor and the stress and a 1.6 % change of the deflection. Convergence was only achieved through the deflection of design 3. Since convergence was achieved through the deflection a 3rd attempt was not needed. The amount of elements in design 3 after attempt 2 was 6596. The max stress occurred were left side of the arm meets the T structure and the max deflection occurred in the middle of the bottom of the pin. 
+
+<img width="2560" height="1552" alt="Screenshot 2026-10-24 151249" src="https://github.com/user-attachments/assets/c1e24813-74ae-4cc8-b28c-3873a28576a5" />
+
+<img width="3852" height="2978" alt="IMG_7524" src="https://github.com/user-attachments/assets/5c3e6bc7-3f70-4110-bf3a-c2b849e625f0" />
+
+|  | Design I | Design II | Design III |
+
 # Lessons Learned
