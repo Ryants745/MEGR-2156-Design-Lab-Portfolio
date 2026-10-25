@@ -36,5 +36,6 @@ For the first attempt of design 3, I once again chose the maximum coarse mesh wh
 <img width="3852" height="2978" alt="IMG_7524" src="https://github.com/user-attachments/assets/5c3e6bc7-3f70-4110-bf3a-c2b849e625f0" />
 
 |  | Design I | Design II | Design III |
-
+| : --- | :---: | ---: | ---: |
+| Max Stress | 3.502 MPa | 13.32 MPa | 16.24 MPa |
 # Lessons Learned
