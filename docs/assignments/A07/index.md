@@ -44,3 +44,6 @@ For the first attempt of design 3, I once again chose the maximum coarse mesh wh
 
 # Lessons Learned
 I learned how to create different meshes of my CAD Designs in SolidWorks and how the results change during each of my simulation attempts. The different results contributed to my ideas of what to change when modifying the mesh and the design. If I had done a 4th design I would try once again to lower my safety factor by reducing my diameter. If I reduced the new diameter the same way I did before it is likely that my safety factor would be much closer to 3. Thinking it over, I probably should have used the dimensions for design III as my 2nd design rather than reducing by 1/2, because it of how much it affected my results. I also could have changed the design based on the deflection rather than just focusing on the safety factor. I also learned how to create a table in github for this assignment since we had to store our values in a table. If I take out the breaks I took, it took me roughly 5 hours to complete this assignment.
+
+CAD Design
+https://github.com/Ryants745/MEGR-2156-Design-Lab-Portfolio/blob/main/docs/assignments/A07/bracket%20drawing.SLDPRT
