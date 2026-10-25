@@ -35,10 +35,13 @@ For the first attempt of design 3, I once again chose the maximum coarse mesh wh
 
 <img width="3852" height="2978" alt="IMG_7524" src="https://github.com/user-attachments/assets/5c3e6bc7-3f70-4110-bf3a-c2b849e625f0" />
 
-|  | Design I | Design II | Design III |
-
-| : --- | :---: | ---: | ---: |
-
-| Max Stress | 3.502 MPa | 13.32 MPa | 16.24 MPa |
+| Parameter / Metric | Design 1 | Design II | Design III |
+| :--- | :--- | :--- | :--- |
+| **Max Stress** | 3.502 MPa | 13.32 MPa | 16.24 MPa |
+| **Max deflection** | 3.242 x 10^-5 in | 7.613 x 10^-5 in | 8.667 x 10^-5 in |
+| **Mass** | 0.53 lbs | 0.05 lbs | 0.02 lbs |
+| **Safety Factor** | 78.53 | 20.65 | 16.93 |
+| **Number of elements** | 9705 | 9107 | 6596 |
 
 # Lessons Learned
+
