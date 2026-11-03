@@ -50,3 +50,5 @@ https://github.com/Ryants745/MEGR-2156-Design-Lab-Portfolio/blob/main/docs/assig
 https://github.com/Ryants745/MEGR-2156-Design-Lab-Portfolio/blob/main/docs/assignments/A08/91290A176_Black-Oxide%20Alloy%20Steel%20Socket%20Head%20Screw.SLDPRT
 
 https://github.com/Ryants745/MEGR-2156-Design-Lab-Portfolio/blob/main/docs/assignments/A08/91595A134_Dowel%20Pin.SLDPRT
+
+https://github.com/Ryants745/MEGR-2156-Design-Lab-Portfolio/blob/main/docs/assignments/A08/Gear%20Assembly.SLDASM 
